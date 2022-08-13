@@ -15,7 +15,7 @@ public class DeliveryTest {
 
     @BeforeEach
     public void openBrowser() {
-        open("http://localhost:9999");
+        open("http://localhost:9999/");
     }
 
     @Test
